@@ -1,0 +1,10 @@
+\\mytru_vfiler1\home\w\t00249622\visual studio 2012\Projects\Seminar8\Seminar8\bin\Debug\Seminar8.exe.config
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\bin\Debug\Seminar8.exe.config
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\obj\Debug\Seminar8.csprojResolveAssemblyReference.cache
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\obj\Debug\Seminar8.Form1.resources
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\obj\Debug\Seminar8.Properties.Resources.resources
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\obj\Debug\Seminar8.csproj.GenerateResource.Cache
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\bin\Debug\Seminar8.exe
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\bin\Debug\Seminar8.pdb
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\obj\Debug\Seminar8.exe
+C:\Users\Russ\Documents\Visual Studio 2013\Projects\Seminar8\Seminar8\Seminar8\obj\Debug\Seminar8.pdb
